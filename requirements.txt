@@ -1,0 +1,4 @@
+XlsxWriter>=3.1
+# tests only
+pytest
+openpyxl
